@@ -29,7 +29,7 @@ Delete container button:
 Deleting container:
 ![deletedContainer](https://sun9-32.userapi.com/qAvgZ7lXYnVsn1ZV-pGB8O198T85w6lBEP6jGA/vDNn9USi8iA.jpg)
 
-##How to create, delete or edit a task
+## How to create, delete or edit a task
 
 How to create, edit and delete a task:<br/>
 Create task button:
@@ -49,21 +49,21 @@ And if you want to delete a task you need to press a delete button:
 And that's our result:
 ![deleteTaskResult](https://sun9-26.userapi.com/287NGEfVuuS0VCwjDrhPajSvVR9GvfmFMZSTMA/c6DOt-gjfXE.jpg)
 
-##Modal window
+## Modal window
 If you want to close the modal window without any changes or submits, all you need is press and ESC button 
 on your keyboard or click outside with your mouse:
 ![modalWindow](https://sun9-59.userapi.com/CDMIyk8yTcsiHeMZmzl4UcD9KPlFaW-mfLEnHQ/fArRBGyXICE.jpg)
 The result of pressing outside this modal window or pressing ESC on a keyboard:
 ![modalClosed](https://sun9-26.userapi.com/287NGEfVuuS0VCwjDrhPajSvVR9GvfmFMZSTMA/c6DOt-gjfXE.jpg)
 
-##Search input
+## Search input
 This search input filtering tasks and showing tasks which one has the text from search input in their task tittle or body.<br/>
 Search input empty:
 ![searchInputEmpty](https://sun9-52.userapi.com/BO7_Q7FugADVVuIzciC74GOtZXL1kbh4cfT3Tw/UfBTokpUtOQ.jpg)
 Search input with some text:
 ![searchInputWithSomeText](https://sun9-53.userapi.com/zQ5V5dpznAcLM5N1r4L0DYB-Yie7oOpUfDkwbQ/JmxuDJ9tSZs.jpg)
 
- ## Make task completed
+## Make task completed
 It's kinda easy to hide completed tasks. You need to made your checkbox checked first, 
 then press the button that hides completed tasks.<br/>
 Here is our button to make our task completed:
@@ -72,7 +72,7 @@ Now it looks more like completed:
 ![taskCompleted](https://sun9-47.userapi.com/RckABiEAJMptUBgGWC_EPrJfjEoy3JK8VenTOA/lND1qMZPSE8.jpg) <br/>
 Click on it once again to make this task not completed again or delete if you don't need this task anymore !
 
- ##Hide completed
+## Hide completed
 Now we have completed tasks, but we don't want to see them right now. To hide completed tasks 
 you need to click the button Hide completed.<br/>
 Here is our button to hide completed tasks in a single container:
