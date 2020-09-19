@@ -29,7 +29,7 @@ Delete container button:
 Deleting container:
 ![deletedContainer](https://sun9-32.userapi.com/qAvgZ7lXYnVsn1ZV-pGB8O198T85w6lBEP6jGA/vDNn9USi8iA.jpg)
 
-## How to create, delete or edit a task
+##How to create, delete or edit a task
 
 How to create, edit and delete a task:<br/>
 Create task button:
