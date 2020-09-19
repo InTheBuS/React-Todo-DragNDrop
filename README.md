@@ -1,11 +1,11 @@
-#Что я использовал
+# Что я использовал
 
 React, redux, react-beautiful-dnd.<br/>
 Search input реализован через debounce функцию с задержкой в 500 мс.<br/>
 Контейнеры являются droppable area, а сами задачи можно перетаскивать между контейнерами.<br/>
 Уникальные ID я получаю благодаря функции, которая генерирует случайные уникальные ключи.<br/>
 
-#TODO application
+# TODO application
 
 This is a simple TODO application that I tried to create for my GIT profile.<br/>
 In this application you can: 
@@ -15,7 +15,7 @@ In this application you can:
 - Drag a task from container and put it to another one
 - Search a task by entering keywords in the search bar
 
-##How to create or delete a container
+## How to create or delete a container
 
 If you want to create a container, you should click on the top middle button. If you want to delete a container, you should click to the bottom button of the container. <br/>
 Create container button:
@@ -63,7 +63,7 @@ Search input empty:
 Search input with some text:
 ![searchInputWithSomeText](https://sun9-53.userapi.com/zQ5V5dpznAcLM5N1r4L0DYB-Yie7oOpUfDkwbQ/JmxuDJ9tSZs.jpg)
 
-##Make task completed
+ ## Make task completed
 It's kinda easy to hide completed tasks. You need to made your checkbox checked first, 
 then press the button that hides completed tasks.<br/>
 Here is our button to make our task completed:
@@ -72,7 +72,7 @@ Now it looks more like completed:
 ![taskCompleted](https://sun9-47.userapi.com/RckABiEAJMptUBgGWC_EPrJfjEoy3JK8VenTOA/lND1qMZPSE8.jpg) <br/>
 Click on it once again to make this task not completed again or delete if you don't need this task anymore !
 
-##Hide completed
+ ##Hide completed
 Now we have completed tasks, but we don't want to see them right now. To hide completed tasks 
 you need to click the button Hide completed.<br/>
 Here is our button to hide completed tasks in a single container:
@@ -81,7 +81,7 @@ Result of clicking on it:
 ![taskHideCompleted](https://sun9-70.userapi.com/JVq-HLZVu3j5ONf_kFo-hUnaXrnYZEbjo1T5Vg/0A_zPN3lxbY.jpg) <br/>
 Click on it once again to see all tasks in this container ! 
 
-##Drag and drop our tasks
+## Drag and drop our tasks
 You can take your task and put it in another container.<br/>
 Grab the task by holding left mouse button:
 ![grabTaskOne](https://sun9-28.userapi.com/zX_QVMOIeBd4SC_Jn--HSXWPHRmYYmGZZ3PTbA/7sVFWDQMk0U.jpg)
